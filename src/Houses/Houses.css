@@ -1,0 +1,11 @@
+.group{
+    color: #b3b3b3;
+    border: 2px solid #b3b3b3;
+    border-radius: 15px;
+}
+.group-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}

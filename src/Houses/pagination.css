@@ -1,0 +1,23 @@
+.pagination{
+    font-size: 20px;
+    border: 1px solid #d3d3d3; 
+    border-radius: 15px;
+}
+.paginate{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.item{
+    
+    padding: 10px;
+    letter-spacing: 1px;
+}
+.link{
+    color: #d3d3d3;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: none;
+    color: #6b6b6b;
+}

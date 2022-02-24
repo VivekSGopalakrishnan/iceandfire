@@ -1,3 +1,49 @@
-.App {
-  text-align: center;
+@import url(//db.onlinewebfonts.com/c/97c4b25dc74e0ab045154e75a8fdd69d?family=Game+of+Thrones);
+@font-face {font-family: "Game of Thrones";
+   src: url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.eot");
+   src: url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.eot?#iefix")
+   format("embedded-opentype"),
+   url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.woff2")
+   format("woff2"), url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.woff")
+   format("woff"), url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.ttf")
+   format("truetype"), url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.svg#Game of Thrones") 
+   format("svg"); }
+
+   ::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #d3d3d3; 
+    border-radius: 10px;
+  }
+   
+  ::-webkit-scrollbar-thumb {
+    background: #000; 
+    border-radius: 10px;
+  }
+   .app {
+  font-family: "Game of Thrones";
+  letter-spacing: 4px;
+  background-color: #000000;
+}
+h2{
+  font-size: 36px;
+}
+p{
+  font-size: 12px;
+}
+h6{
+  font-size: 18px;
+}
+@media (max-width:768px) {
+  h2{
+    font-size: 25px;
+  }
+  p{
+    font-size: 10px;
+  }
+  h6{
+    font-size: 14px;
+  }
 }

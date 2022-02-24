@@ -1,0 +1,9 @@
+.characters-group{
+    color: #b3b3b3;
+    border: 2px solid #b3b3b3;
+    border-radius: 15px;
+}
+.characters-group-item{
+    list-style: none;
+    padding: 15px;
+}

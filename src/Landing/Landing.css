@@ -1,0 +1,31 @@
+.hero{
+    color: #a8a8a8;
+    text-align: center;
+    overflow: hidden;
+}
+
+.content{
+    padding-top: 250px;
+}
+.passage{
+    padding-left: 80px;
+    padding-right: 80px;
+    
+}
+.Landing-title{
+    color: #d3d3d3;
+}
+@media (max-width: 768px){
+    .content{
+        padding-top: 100px;
+        color: #a8a8a8;
+    }
+    .passage{
+        padding-top: 30px;
+       padding-bottom: 5px;
+        padding-left: 20px;
+        padding-right: 20px;
+        color: red;
+        background-color: #000000;
+    }
+}
