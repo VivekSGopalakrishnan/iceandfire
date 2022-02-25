@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/iceandfire/static/css/main.b8ea0ace.css",
+    "main.js": "/iceandfire/static/js/main.acd4efbd.js",
+    "static/media/Gotbg5.png": "/iceandfire/static/media/Gotbg5.d331ea487d6070b3fc15.png",
+    "index.html": "/iceandfire/index.html",
+    "main.b8ea0ace.css.map": "/iceandfire/static/css/main.b8ea0ace.css.map",
+    "main.acd4efbd.js.map": "/iceandfire/static/js/main.acd4efbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8ea0ace.css",
+    "static/js/main.acd4efbd.js"
+  ]
+}
