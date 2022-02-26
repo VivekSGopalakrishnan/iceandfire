@@ -11,7 +11,6 @@ function App() {
 <Charactersfile/>
 <Booksfile/>
 <Housesfile/> 
-  ABc
 </div>
   );
 }
