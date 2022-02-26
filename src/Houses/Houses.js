@@ -9,8 +9,7 @@ const Houses = ({houses,loading}) => {
       <ul className='group mb-4'>
           {houses.map(houses => (
               <li key={houses.id} className='group-item'>
-                  <h6>{houses.name}
-                  {houses.founded}</h6>
+                  <h6>{houses.name}</h6>
                   <br/>
               </li>
               
